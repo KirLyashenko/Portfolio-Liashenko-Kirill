@@ -17,7 +17,7 @@ Welcome to my portfolio! Here you'll find examples of my work in GIS, data analy
    
   3. **[Dashboard. Tick-borne encephalitis in Russia in 2024](https://geoportal.hse.ru/portal/apps/dashboards/330dc125e2c84e50b78617300194fbbb)**  (In Russian)
 
-   *Description:* The dashboard is compiled based on the list of subjects of the Russian Federation that are endemic for tick-borne viral encephalitis in 2023.
+     *Description:* The dashboard is compiled based on the list of subjects of the Russian Federation that are endemic for tick-borne viral encephalitis in 2023.
 The Federal Service for Surveillance in the Sphere of Consumer Rights Protection and Human Welfare is sending a List of administrative territories of constituent entities of the Russian Federation endemic for tick-borne viral encephalitis in 2023 for use in work and planning anti-epidemic measures in 2024.  
    *Skills:* ArcGIS Dashboards, data visualization
    
