@@ -5,7 +5,7 @@ Welcome to my portfolio! Here you'll find examples of my work in GIS, data analy
 - 💻 Tools: ArcGIS, Python (pandas, geopandas), SQL, CBM, Tableau.  
 
 ## Featured Projects
-1. **[Project Title 1](https://geoportal.hse.ru/portal/apps/storymaps/stories/93c0e34807a94576a5ee8e002fd5bffc)** (In Russian)
+1. **[Project "Mirror Laboratories"](https://geoportal.hse.ru/portal/apps/storymaps/stories/93c0e34807a94576a5ee8e002fd5bffc)** (In Russian)
    *Description:* Analysis of forest degradation risks in the Alps using CBM and GIS tools.  
    *Skills:* GIS, CBM, Python.  
 
