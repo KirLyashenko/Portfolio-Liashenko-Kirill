@@ -11,9 +11,7 @@ Welcome to my portfolio! Here you'll find examples of my work in GIS, data analy
 1. **[Project "Mirror Laboratories"](https://geoportal.hse.ru/portal/apps/storymaps/stories/93c0e34807a94576a5ee8e002fd5bffc)** (In Russian)
    ![1-Интерактивная-панель-«Демография-и-миграция»](https://github.com/user-attachments/assets/70a6ca65-0555-4b6d-8da2-3c46354fee1b)
 
-
    *Description:* As a result of the joint activities of the Higher School of Economics and the Stavropol State Agrarian University, interactive panels [“Demography and Migration”](https://geoportal.hse.ru/portal/apps/dashboards/2caf8086c23543188396c824cb769661), [“Economy”](https://geoportal.hse.ru/portal/apps/dashboards/ba748009f2ad4963af7d1ff2777b97fe) and [“Social Infrastructure”](https://geoportal.hse.ru/portal/apps/dashboards/11e3920c23024bac95ba3da5b9![3_Интерактивная-панель-«Социальная-инфраструктура»](https://github.com/user-attachments/assets/e48b2d68-5970-47b0-9f79-1bd14459de77)
-![1-Интерактивная-панель-«Демография-и-миграция»](https://github.com/user-attachments/assets/a4204364-4f36-481d-a850-80b9c8a96be8)
 5631e5) were created according to data from regional authorities (data provided by the Institute of Agrarian Research) and a regional open data portal for the settlements of Aleksandrovsky and Andropovsky and Arzgirsky districts of the Stavropol Territory about social facilities.
    
    *Skills:* GIS, Arcade, Text writing, Report writing 
