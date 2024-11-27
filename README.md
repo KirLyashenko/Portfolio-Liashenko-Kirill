@@ -1,4 +1,4 @@
-# Portfolio of [Your Name]
+Portfolio of Liashenko Kirill
 
 Welcome to my portfolio! Here you'll find examples of my work in GIS, data analysis, and sustainability projects.  
 - 🌍 Focus: Environmental analysis, GIS, CBM modeling.  
