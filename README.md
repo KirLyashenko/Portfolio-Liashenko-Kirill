@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! Here you'll find examples of my work in GIS, data analysis, and sustainability projects.  
 ## Skills and Tools  
-- **GIS Software:** ArcGIS Pro, QGIS, ArcGIS Dashboards  
+- **GIS Software:** ArcGIS Pro, QGIS, ArcMap  
 - **Programming Languages:** Python, R  
 - **Data Visualization:** ArcGIS Dashboards, Tableau, Power BI  
 - **Other Tools:** CBM, Google Earth Engine  
@@ -32,6 +32,8 @@ The Federal Service for Surveillance in the Sphere of Consumer Rights Protection
   
 ---
 
-## About Me
+## Education
 I am a GIS Analyst and Master's student in Sustainable Development with a passion for applying data-driven solutions to environmental challenges. Here i attach my education documents:
   1. [Bachelor Diploma](https://github.com/user-attachments/files/17938361/_compressed.pdf)
+  2. [Master declaration](https://github.com/user-attachments/files/17938427/Master.declaration.pdf)
+  3. [Bachelor degree supplement](https://github.com/user-attachments/files/17938434/_compressed.pdf)
