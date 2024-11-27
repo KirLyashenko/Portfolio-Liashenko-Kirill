@@ -22,7 +22,7 @@ The Federal Service for Surveillance in the Sphere of Consumer Rights Protection
    *Skills:* ArcGIS Dashboards, data visualization
    
   3. **[Project Geoportal of subregional (municipal) statistics](https://geoportal.hse.ru/portal/apps/storymaps/stories/4507c1bebaa04d788c5116af2755fbd7)**  (In Russian)
-
+     
    *Description:* The page presents a prototype of a geoportal for subregional (municipal) statistics. The project aims to create a system for visual presentation and analysis of data at the subregional level. A targeted selection of statistical and spatial data was carried out, they were organized and adapted in the interests of government and management bodies, the scientific and analytical community.  
    *Skills:* ArcGIS Dashboards, data visualization
    
