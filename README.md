@@ -25,6 +25,7 @@ The Federal Service for Surveillance in the Sphere of Consumer Rights Protection
 
    *Description:* The page presents a prototype of a geoportal for subregional (municipal) statistics. The project aims to create a system for visual presentation and analysis of data at the subregional level. A targeted selection of statistical and spatial data was carried out, they were organized and adapted in the interests of government and management bodies, the scientific and analytical community.  
    *Skills:* ArcGIS Dashboards, data visualization
+   
 ---
 
 ## About Me
