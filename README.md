@@ -4,7 +4,7 @@ Welcome to my portfolio! Here you'll find examples of my work in GIS, data analy
 ## Skills and Tools  
 - **GIS Software:** ArcGIS Pro, QGIS, ArcGIS Dashboards  
 - **Programming Languages:** Python, R  
-- **Data Visualization:** Tableau, Power BI  
+- **Data Visualization:** ArcGIS Dashboards, Tableau, Power BI  
 - **Other Tools:** CBM, Google Earth Engine  
 
 ## Featured Projects
