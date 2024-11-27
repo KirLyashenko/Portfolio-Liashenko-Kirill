@@ -9,7 +9,7 @@ Welcome to my portfolio! Here you'll find examples of my work in GIS, data analy
 
    *Description:* As a result of the joint activities of the Higher School of Economics and the Stavropol State Agrarian University, interactive panels [“Demography and Migration”](https://geoportal.hse.ru/portal/apps/dashboards/2caf8086c23543188396c824cb769661), [“Economy”](https://geoportal.hse.ru/portal/apps/dashboards/ba748009f2ad4963af7d1ff2777b97fe) and [“Social Infrastructure”](https://geoportal.hse.ru/portal/apps/dashboards/11e3920c23024bac95ba3da5b95631e5) were created according to data from regional authorities (data provided by the Institute of Agrarian Research) and a regional open data portal for the settlements of Aleksandrovsky and Andropovsky and Arzgirsky districts of the Stavropol Territory about social facilities.
    
-   *Skills:* GIS, CBM, Python.  
+   *Skills:* GIS, Arcade, Text writing, Report writing 
 
 2. **[Project Geoportal of subregional (municipal) statistics](https://geoportal.hse.ru/portal/apps/storymaps/stories/4507c1bebaa04d788c5116af2755fbd7)**  (In Russian)
 
@@ -18,6 +18,7 @@ Welcome to my portfolio! Here you'll find examples of my work in GIS, data analy
    1. [Krasnodar region and Adygea. Population](https://geoportal.hse.ru/portal/apps/dashboards/70b2983ba5ea481083c50bee84b06f9e)
    2. [Krasnodar region and Adygea. Labor market and income](https://geoportal.hse.ru/portal/apps/dashboards/317fea6a399e4b498e3576cfaa6318b7)
    3. [Krasnodar region and Adygea. Municipality profile](https://geoportal.hse.ru/portal/apps/dashboards/b8709c0b096e42148defc8c910ebc54c)
+   
    *Skills:* ArcGIS Dashboards, data visualization
    
   4. **[Dashboard. Tick-borne encephalitis in Russia in 2024](https://geoportal.hse.ru/portal/apps/dashboards/330dc125e2c84e50b78617300194fbbb)**  (In Russian)
