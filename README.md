@@ -1,8 +1,11 @@
 # Portfolio. Liashenko Kirill
 
 Welcome to my portfolio! Here you'll find examples of my work in GIS, data analysis, and sustainability projects.  
-- 🌍 Focus: Environmental analysis, GIS, Data visualization.  
-- 💻 Tools: ArcGIS, Arcade, Esri stack.  
+## Skills and Tools  
+- **GIS Software:** ArcGIS Pro, QGIS, ArcGIS Dashboards  
+- **Programming Languages:** Python, R  
+- **Data Visualization:** Tableau, Power BI  
+- **Other Tools:** CBM, Google Earth Engine  
 
 ## Featured Projects
 1. **[Project "Mirror Laboratories"](https://geoportal.hse.ru/portal/apps/storymaps/stories/93c0e34807a94576a5ee8e002fd5bffc)** (In Russian)
