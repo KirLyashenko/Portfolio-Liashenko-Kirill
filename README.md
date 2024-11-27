@@ -29,11 +29,9 @@ Welcome to my portfolio! Here you'll find examples of my work in GIS, data analy
      *Description:* The dashboard is compiled based on the list of subjects of the Russian Federation that are endemic for tick-borne viral encephalitis in 2023.
 The Federal Service for Surveillance in the Sphere of Consumer Rights Protection and Human Welfare is sending a List of administrative territories of constituent entities of the Russian Federation endemic for tick-borne viral encephalitis in 2023 for use in work and planning anti-epidemic measures in 2024.  
    *Skills:* ArcGIS Dashboards, data visualization
-
-   
+  
 ---
 
 ## About Me
-I am a GIS Analyst and Master's student in Sustainable Development with a passion for applying data-driven solutions to environmental challenges.  
-[More about me →](contact.md)
-
+I am a GIS Analyst and Master's student in Sustainable Development with a passion for applying data-driven solutions to environmental challenges. Here i attach my education documents:
+  1. [Bachelor Diploma](https://github.com/user-attachments/files/17938361/_compressed.pdf)
