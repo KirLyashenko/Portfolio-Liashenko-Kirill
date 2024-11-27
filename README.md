@@ -10,8 +10,9 @@ Welcome to my portfolio! Here you'll find examples of my work in GIS, data analy
    *Skills:* GIS, CBM, Python.  
 
 2. **[Project Geoportal of subregional (municipal) statistics](https://geoportal.hse.ru/portal/apps/storymaps/stories/4507c1bebaa04d788c5116af2755fbd7)**  (In Russian)
-   *Description:* Interactive dashboard for social infrastructure analysis.  
-   *Skills:* ArcGIS Dashboards, data visualization.  
+   *Description:* The page presents a prototype of a geoportal for subregional (municipal) statistics. The project aims to create a system for visual presentation and analysis of data at the subregional level. A targeted selection of statistical and spatial data was carried out, they were organized and adapted in the interests of government and management bodies, the scientific and analytical community.  
+   *Skills:* ArcGIS Dashboards, data visualization
+    
 
 [Explore all projects →](projects)
 
