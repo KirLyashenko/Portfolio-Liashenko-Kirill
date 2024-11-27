@@ -1,8 +1,8 @@
 # Portfolio. Liashenko Kirill
 
 Welcome to my portfolio! Here you'll find examples of my work in GIS, data analysis, and sustainability projects.  
-- 🌍 Focus: Environmental analysis, GIS, CBM modeling.  
-- 💻 Tools: ArcGIS, Python (pandas, geopandas), SQL, CBM, Tableau.  
+- 🌍 Focus: Environmental analysis, GIS, Data visualization.  
+- 💻 Tools: ArcGIS, Arcade, Esri stack.  
 
 ## Featured Projects
 1. **[Project "Mirror Laboratories"](https://geoportal.hse.ru/portal/apps/storymaps/stories/93c0e34807a94576a5ee8e002fd5bffc)** (In Russian)
